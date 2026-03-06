@@ -296,7 +296,7 @@ Cinematic Reels • Ads • Professional Editing
 
 <h2 className="text-3xl text-center mb-16">
 
-Selected Work
+My Works
 
 </h2>
 
@@ -325,7 +325,7 @@ className="cursor-pointer group relative rounded-2xl border border-white/10 bg-b
 
 <div className="text-center text-gray-500 mb-3 group-hover:opacity-0 transition">
 
-Hover to Preview
+
 
 </div>
 
@@ -349,7 +349,7 @@ allow="autoplay"
 
 <div className="h-[180px] flex items-center justify-center text-gray-600">
 
-Preview
+
 
 </div>
 
